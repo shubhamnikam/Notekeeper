@@ -1,6 +1,6 @@
-##NoteKeeper
-
+# NoteKeeper
 Minimal & elegant note keeper app using Realm as a DB.
+
 
 ![Alt Text](https://i.imgur.com/qjYK5N6l.png)
 ![Alt Text](https://i.imgur.com/c6m7SQIl.png)
