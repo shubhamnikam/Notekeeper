@@ -1,4 +1,4 @@
-#NoteKeeper
+##NoteKeeper
 
 Minimal & elegant note keeper app using Realm as a DB.
 
